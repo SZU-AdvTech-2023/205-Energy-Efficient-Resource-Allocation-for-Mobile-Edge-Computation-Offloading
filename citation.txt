@@ -1,0 +1,9 @@
+@article{REPO205,
+    author = "You, Changsheng and Huang, Kaibin and Chae, Hyukjin and Kim, Byoung-Hoon",
+    journal = "IEEE Transactions on Wireless Communications",
+    number = "3",
+    pages = "1397-1411",
+    title = "{Energy-Efficient Resource Allocation for Mobile-Edge Computation Offloading}",
+    volume = "16",
+    year = "2017"
+}
