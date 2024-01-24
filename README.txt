@@ -1,0 +1,3 @@
+mian.m执行算法1
+Finitecloudoptimal.m执行算法2和算法3
+OFDMA.m执行算法4和算法5
